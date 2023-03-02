@@ -14,7 +14,7 @@ pip install lambda-fastapi-router
 This router is used the same way as the fastapi APIRouter:
 
 ```python
-from lambda-fastapi-router import LambdaRouter
+from lambda_fastapi_router import LambdaRouter
 
 router = LambdaRouter()
 
